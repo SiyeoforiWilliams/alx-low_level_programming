@@ -30,7 +30,7 @@ int main(void)
 
 	float f;
 
-
+	
 
 	printf("Size of a char: %ld byte(s)\n", sizeof(c));
 
@@ -44,4 +44,3 @@ int main(void)
 
 	return (0);
 
-}
